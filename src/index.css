@@ -12,3 +12,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.container{
+  
+  margin: 0 auto;
+  padding: 15px;
+}
+select {
+  background: rgb(3, 255, 16);
+  width: 240px;
+  height: 30px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  font-family: 'Space Mono', monospace;
+  border: 1px solid darkgreen;
+
+}
+option {
+  background: rgb(255, 255, 255);
+  padding: 3px;
+  font-family: 'Space Mono', monospace;
+}
+h1 {
+  font-family: 'Cinzel', serif;
+  color: rgb(0, 36, 0);
+  font-weight: bolder;
+}
+input {
+  width: 210px;
+  height: 21px;
+  padding: 3px;
+  padding-left: 5px;
+  font-family: 'Space Mono', monospace;
+}
